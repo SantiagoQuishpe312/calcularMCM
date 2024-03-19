@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calcular_MCM</string>
+    <string name="mostrar">Calcular el MCM</string>
+    <string name="numerador">Escribe el numerador</string>
+    <string name="denominador">Escribe el denominador</string>
+    <string name="boton">Calcular</string>
+    <string name="next">Siguiente</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="previous">Anterior</string>
+    <string name="action_settings">Configuración</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="title_activity_mostrar">Mostrar</string>
+</resources>
